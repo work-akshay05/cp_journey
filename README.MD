@@ -5,3 +5,8 @@
 - helmets in the night
 - Olya and Game with Arrays
 - monsters
+- ski resort
+- array merging
+- traffic light
+- minimum lcm
+- distinct split
