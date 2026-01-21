@@ -15,3 +15,5 @@
 - luke is a foodie
 - shoe shuffling
 - black and white strip
+- red vs blue
+- roof construction
