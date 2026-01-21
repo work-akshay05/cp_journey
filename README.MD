@@ -10,3 +10,8 @@
 - traffic light
 - minimum lcm
 - distinct split
+- basketball together
+- beautifull array
+- luke is a foodie
+- shoe shuffling
+- black and white strip
