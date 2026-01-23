@@ -17,3 +17,5 @@
 - black and white strip
 - red vs blue
 - roof construction
+- Triangles on a Rectangle
+- divan and a new project 
