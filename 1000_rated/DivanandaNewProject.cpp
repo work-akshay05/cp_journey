@@ -19,7 +19,7 @@ int main(){
         }
 
         sort(temp.begin(),temp.end());
-        
+
         vector<int>ans(n);
         int curr=1;
         int t=1;
