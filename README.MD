@@ -20,3 +20,7 @@
 - Triangles on a Rectangle
 - divan and a new project
 - MEx or mixup
+- Double-ended Strings
+- Number box
+- Different Divisors 
+- add and divide
