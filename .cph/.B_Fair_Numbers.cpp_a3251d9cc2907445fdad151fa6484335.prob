@@ -1,0 +1,1 @@
+{"name":"B. Fair Numbers","url":"https://codeforces.com/contest/1411/problem/B","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Technocup 2021 - Elimination Round 3","tests":[{"id":1769595819241,"input":"4\n1\n69\n1234567890\n140183543337950","output":"1\n70\n1234568040\n140183543338080"}],"srcPath":"c:\\Users\\premk\\cp\\B_Fair_Numbers.cpp"}

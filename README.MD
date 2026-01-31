@@ -24,3 +24,6 @@
 - Number box
 - Different Divisors 
 - add and divide
+- Valerii Against Everyone
+- Fair Numbers
+- Buying Torches
