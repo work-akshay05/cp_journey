@@ -27,3 +27,7 @@
 - Valerii Against Everyone
 - Fair Numbers
 - Buying Torches
+- johnny and ancient computer
+- reverse a substring
+- bogosort
+- move brackets
