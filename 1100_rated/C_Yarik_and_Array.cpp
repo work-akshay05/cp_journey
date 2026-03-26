@@ -1,23 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-int fn(vector<int>&nums){
-    int n=nums.size();
-
-    int currsum=nums[0];
-    int maxsum=nums[0];
-
-    for(int i=1;i<n;i++){
-        if(((nums[i]^nums[i-1]) & 1)==0){
-            currsum=nums[i];
-        }
-        else {
-            currsum=max(nums[i],nums[i]+currsum);
-        }
-        maxsum=max(maxsum,currsum);
-    }
-
-    return maxsum;
-
+bool check(int a,int b){
+    if((a%2==0 && b%2==0) || (a%2!=0 && b%2!=0) )return false;
+    return true;
 }
 int main(){
     int t;
@@ -29,7 +14,17 @@ int main(){
 
         vector<int>nums(n);
         for(int i=0;i<n;i++)cin>>nums[i];
-
-        cout<<fn(nums)<<endl;
+        int temp=nums[0];
+        int maxi=nums[0];
+        for(int i=1;i<n;i++){
+            if(check(nums[i],nums[i-1])){
+                temp=max(nums[i],temp+nums[i]);
+            }
+            else {
+                temp=nums[i];
+            }
+            maxi=max(maxi,temp);
+        }
+        cout<<maxi<<endl;
     }
 }
