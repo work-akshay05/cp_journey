@@ -1,0 +1,1 @@
+{"name":"C. Make Them Equal","url":"https://codeforces.com/contest/1594/problem/C","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 747 (Div. 2)","tests":[{"id":1775726719607,"input":"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx\n","output":"0\n1\n2\n2\n2 3\n"}],"srcPath":"c:\\Users\\premk\\cp\\1200_rated\\C_Make_Them_Equal.cpp"}

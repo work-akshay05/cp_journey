@@ -1,0 +1,1 @@
+{"name":"B. Pleasant Pairs","url":"https://codeforces.com/contest/1541/problem/B","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 728 (Div. 2)","tests":[{"id":1775796758283,"input":"3\n2\n3 1\n3\n6 1 5\n5\n3 1 5 9 2\n","output":"1\n1\n3\n"}],"srcPath":"c:\\Users\\premk\\cp\\1200_rated\\B_Pleasant_Pairs.cpp"}
